@@ -1,0 +1,17 @@
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\bin\Debug\net7.0\newcom.Service.deps.json
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\bin\Debug\net7.0\newcom.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\bin\Debug\net7.0\newcom.Service.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\obj\Debug\net7.0\newcom.Service.csproj.AssemblyReference.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\obj\Debug\net7.0\newcom.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\obj\Debug\net7.0\newcom.Service.AssemblyInfoInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\obj\Debug\net7.0\newcom.Service.AssemblyInfo.cs
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\obj\Debug\net7.0\newcom.Service.csproj.CoreCompileInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\obj\Debug\net7.0\newcom.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\obj\Debug\net7.0\refint\newcom.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\obj\Debug\net7.0\newcom.Service.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\obj\Debug\net7.0\ref\newcom.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\bin\Debug\net7.0\newcom.DataAccess.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\bin\Debug\net7.0\newcom.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\bin\Debug\net7.0\newcom.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\bin\Debug\net7.0\newcom.DataAccess.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.Service\obj\Debug\net7.0\newcom.Service.csproj.CopyComplete

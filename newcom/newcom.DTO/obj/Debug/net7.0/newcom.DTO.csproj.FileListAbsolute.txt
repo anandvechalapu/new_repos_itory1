@@ -1,0 +1,12 @@
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\bin\Debug\net7.0\newcom.DTO.deps.json
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\bin\Debug\net7.0\newcom.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\bin\Debug\net7.0\newcom.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.csproj.AssemblyReference.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.AssemblyInfoInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.AssemblyInfo.cs
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.csproj.CoreCompileInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\obj\Debug\net7.0\refint\newcom.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\obj\Debug\net7.0\newcom.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\135\202304283423\newcom\newcom.DTO\obj\Debug\net7.0\ref\newcom.DTO.dll
